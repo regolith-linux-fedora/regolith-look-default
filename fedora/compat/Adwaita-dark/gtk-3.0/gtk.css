@@ -1,0 +1,3 @@
+/* Fedora compat for the Regolith default look (gtk.theme_name: Adwaita-dark).
+   Debian/Ubuntu get this file from gnome-themes-extra, which Fedora retired. */
+@import url("resource:///org/gtk/libgtk/theme/Adwaita/gtk-contained-dark.css");

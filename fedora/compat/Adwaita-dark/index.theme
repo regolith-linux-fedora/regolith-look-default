@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Adwaita-dark
+Comment=GTK3 Adwaita dark variant (compat: Fedora retired gnome-themes-extra, which shipped this)
+
+[X-GNOME-Metatheme]
+GtkTheme=Adwaita-dark
